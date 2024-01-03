@@ -7,7 +7,7 @@
   name: Install Fortune
   nodeFilterEditable: true
   nodefilters:
-    filter: 'remote-node'
+    filter: 'remte-node'
   nodesSelectedByDefault: true
   plugins:
     ExecutionLifecycle: {}

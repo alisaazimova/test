@@ -15,7 +15,7 @@
   schedules: []
   sequence:
     commands:
-    - exec: echo "it is me" > hellow.txt
+    - exec: echo "I made it!!" > hellow.txt
     keepgoing: false
     strategy: node-first
   uuid: 64bfce2c-0e1c-4d5f-8f1f-e70a6b65259d
